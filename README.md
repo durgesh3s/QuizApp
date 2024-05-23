@@ -9,10 +9,6 @@ A mobile quiz application built with Flutter and Firebase. This app allows users
 - Track scores and progress
 - Clean and responsive UI
 
-## Screenshots
-![Login Screen](screenshots/login.png)
-![Quiz Screen](screenshots/quiz.png)
-![Result Screen](screenshots/result.png)
 
 ## Getting Started
 
